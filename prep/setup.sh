@@ -1,5 +1,5 @@
 #!/bin/bash
-repo="raw.githubusercontent.com/pasqua1e/shiftleft_Github-Actions/main"
+repo="raw.githubusercontent.com/jamcg/shiftleft_Github-Actions/main"
 master=`echo $TL_CONSOLE|sed "s/console-//"|sed "s/\./-/g"`
 
 #create sa
